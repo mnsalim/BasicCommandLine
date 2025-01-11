@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 =======
->>>>>>> 307b20d83adcebe964d35ed5a438d243d3572c6d
 Basic Commands for different purposes 
 =======
 # BasicCommandLine
@@ -56,7 +52,14 @@ Basic Commands for different purposes
       To mitigate branch conflicts
 19. Pull request: give the chance to reveiw other codes and approve or discard changes. this also help to relsove merge conflicts. It helps to merge a branch into another branch
       
-21. 
+21. git init : create a new local repository in a folder
+22. git remote add: add a new repository to the project
+23. git diff <-soureBranch> <-targetBranch>: show the difference between two branches
+24. git tag : create a snapshot of the project at a certain time, you can create a tag with version number before commit so that it is always available for future references.
+25. git stash : useful tool that moves the changes fo the project into a stash. WSe can have multiple stashes with different unrelated changes and we can always pull the changes back.
+26. git stash pop -h : retrive changes from the stash and reapplies them.
+27. git rebase -h: takes the commits that have happened in the original branch and applies them into the current  branch before the current changes
+28. git clean -h: remove untrack files
 
 
 
