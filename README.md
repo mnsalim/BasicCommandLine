@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+Basic Commands for different purposes 
+=======
 # BasicCommandLine
 1. - h : typing -h after any commands show the available paprameter
 
@@ -42,3 +45,4 @@
 3. Change directory: cd
 4. write something in a file:echo <something> > <file name.text>
 5. 
+>>>>>>> 62a8183d0886febe0e704b43ad9e23044b2b618c
