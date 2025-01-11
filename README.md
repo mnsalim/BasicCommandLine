@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Basic Commands for different purposes 
 =======
 # BasicCommandLine
@@ -46,3 +47,6 @@ Basic Commands for different purposes
 4. write something in a file:echo <something> > <file name.text>
 5. 
 >>>>>>> 62a8183d0886febe0e704b43ad9e23044b2b618c
+=======
+Basic Commands for different purposes 
+>>>>>>> featureBranch
