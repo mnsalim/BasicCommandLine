@@ -45,7 +45,12 @@ Basic Commands for different purposes
           git reset --soft <-hash> (disregards subsequet commits but keeps the changes they have introduced, this is default)
           git reset --hard <-hash>
           
-17. 
+17. merging two branches
+      git merge <-branch name>
+      To mitigate branch conflicts
+19. Pull request: give the chance to reveiw other codes and approve or discard changes. this also help to relsove merge conflicts. It helps to merge a branch into another branch
+      
+21. 
 
 
 
