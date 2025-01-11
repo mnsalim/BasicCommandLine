@@ -39,6 +39,8 @@ Basic Commands for different purposes
     git config --global user.name "You Name"
     git config --global user.email johndoe@example.com
 13. git push: send commits to central repository
+    git push -f (simply push local changes to remote by disregarding remote changes)
+    git push -u origin <-origin branch name> ( -u indicate the remote repository where we want to push)
     git pull: retrieve commits from central repository
     git clone <-url link> <-new repository name> (if you want to clone same project twice and give different name to the new clone porject)
 15. Undowing changes: two ways
