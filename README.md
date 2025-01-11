@@ -67,12 +67,5 @@ Basic Commands for different purposes
 1. clear screen: cls
 2. show all directory: dir
 3. Change directory: cd
-4. write something in a file:echo <something> > <file name.text>
-5. 
->>>>>>> 62a8183d0886febe0e704b43ad9e23044b2b618c
-<<<<<<< HEAD
-=======
-Basic Commands for different purposes 
->>>>>>> featureBranch
-=======
->>>>>>> 307b20d83adcebe964d35ed5a438d243d3572c6d
+4. write something in a file:echo <something> > <-file name.text>
+
